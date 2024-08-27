@@ -2,6 +2,10 @@
 
 A continuación se mostrará una breve explicación de cada parte implementada en la creación de la aplicación web con el modelo MVC.
 
+## URL REpositorio Github
+
+https://github.com/jrhernandez1991/examen_final.git
+
 ## link de evidencias (video)
 
 https://www.youtube.com/watch?v=ngPkcsoEZKk

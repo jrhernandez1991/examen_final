@@ -4,7 +4,7 @@ A continuación se mostrará una breve explicación de cada parte implementada e
 
 ## link de evidencias (video)
 
-
+https://www.youtube.com/watch?v=ngPkcsoEZKk
 
 ## Instrucciones para ejecutar la aplicación
 
